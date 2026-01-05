@@ -262,7 +262,3 @@ AI • Data Science • Deep Learning Engineer
 <p align="center"> <img src="https://skillicons.dev/icons?i=python,tensorflow,keras,opencv,flask,html,css,js,git,github&perline=7" /> </p>
 <p align="center"> <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="65%"> </p>
 
-
-
-
-

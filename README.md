@@ -164,3 +164,98 @@ Debashish Parida
 Data Science • Deep Learning • AI Engineering
 
 <p align="center"> <a href="https://github.com/debashish-5"> <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"> </a> <a href="https://www.linkedin.com/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"> </a> </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=120&section=footer&text=Lucky%20AI%20—%20Built%20to%20Learn%2C%20Not%20to%20Guess&fontSize=20" /> </p> ```
+
+
+##### AGIANNN JUST IEW
+
+# 🧠✨ Lucky AI  
+## AI-Powered Medical Image Intelligence Platform  
+### Brain MRI & Chest X-ray | Research • Awareness • Education
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22c1c3,100:fdbb2d&height=260&section=header&text=Lucky%20AI&fontSize=68&fontAlignY=38&desc=Medical%20AI%20Visualization%20Reinvented&descAlignY=60" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Deep%20Learning-CNN-blueviolet?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Medical-AI-success?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Flask-Full%20Stack-black?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Status-Research%20Demo-orange?style=for-the-badge">
+</p>
+
+---
+
+## 🌍 Project Vision
+
+**Lucky AI** is a **next-generation AI research & awareness platform** that demonstrates how **deep learning models interpret medical images** while keeping **AI decisions transparent, explainable, and safe**.
+
+This project bridges the gap between:
+- ❌ Black-box AI predictions  
+- ✅ Human-understandable medical insights  
+
+> ⚠️ **Important Notice**  
+> Lucky AI is **NOT a medical diagnostic tool**.  
+> It is built for **learning, visualization, and awareness only**.
+
+---
+
+## 🎥 Immersive UI Experience
+
+- 🎬 Full-screen medical background videos  
+- 🪟 Glassmorphism cards with blur  
+- ✨ Smooth hover animations  
+- 🎨 Healthcare-grade color system  
+- 📱 Fully responsive UI  
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l0HlQ7LRalQqdWfao/giphy.gif" width="70%">
+</p>
+
+---
+
+## 🧩 AI Modules
+
+<table align="center">
+<tr>
+<th>Module</th>
+<th>Input</th>
+<th>Output Classes</th>
+</tr>
+<tr>
+<td>🧠 Brain MRI</td>
+<td>MRI Scan</td>
+<td>No Tumor / Tumor Detected</td>
+</tr>
+<tr>
+<td>🫁 Chest X-ray</td>
+<td>X-ray Image</td>
+<td>Normal / Pneumonia</td>
+</tr>
+</table>
+
+---
+
+## 🧠 How Lucky AI Thinks (Pipeline)
+
+```text
+Image Upload
+   ↓
+Grayscale Conversion
+   ↓
+Resize & Normalize
+   ↓
+CNN Model Inference
+   ↓
+Probability Scores
+   ↓
+Safety Threshold Logic
+   ↓
+Explainable Visual Dashboard
+
+```
+## 👨‍💻 Author
+Debashish Parida
+AI • Data Science • Deep Learning Engineer
+
+<p align="center"> <a href="https://github.com/debashish-5"> <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"> </a> <a href="https://www.linkedin.com/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"> </a> </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=140&section=footer&text=Lucky%20AI%20—%20Explainable%20AI%20Matters&fontSize=22" /> </p> ```
+
